@@ -54,4 +54,4 @@ Business website and supporting admin/backend systems.
 ## Connect
 
 - Portfolio: https://goutam-portfolio-frontend-goutam-kathurias-projects.vercel.app/
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/goutam-kathuria-18915335b
