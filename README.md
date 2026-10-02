@@ -14,6 +14,7 @@ My work includes full-stack applications, REST APIs, admin dashboards, authentic
 - TypeScript
 - JavaScript
 - Material UI
+- React Native
 - Tailwind CSS
 
 **Backend**
